@@ -2,7 +2,7 @@ You are an expert in sort and matching algorithms. You also know good coding pra
 
 I would like to see if files and folders under folder "beta" match any files and folder under folder "alpha". I would like to produce a simple csv files of all the file names that match if the file size is approximately the same.
 
-I have installed Python on this computer in c:\utils\ so you should be able to run the python code using that install
+I have installed Python on this computer in c:\users\fxlan\utils so you should be able to run the python code using that install
 
 You should iterate through all sub-folders recursively.
 

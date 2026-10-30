@@ -1,5 +1,5 @@
 # Folder names or paths to compare. One value per line.
 # Relative paths are resolved from the script's working directory.
-Z:\franla\archive\pictures\
-Z:\franla\files-to-evaluate-keep-delete\LargeFiles\last gasp\save_photos
+Z:\franla\archive\audio files\loops
+Z:\franla\files-to-evaluate-keep-delete\Downloads\Loops
 
